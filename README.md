@@ -13,6 +13,6 @@
 
 It is my designed website through which you will receive my Assignments with well organized.
 
-<br>Visit the <a href="https://mohammadtaseenkhan.github.io/Assignments/" target="_blank">Websie</a>
+<br>Visit the <a href="https://mohammadtaseenkhan.github.io/Assignments/" target="_blank">Website</a>
 
 <br>Author <a href="https://www.facebook.com/mdtaseen.khan.77" target="_blank">Mohammad Taseen Khan</a>
