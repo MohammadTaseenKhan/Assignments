@@ -1,3 +1,6 @@
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=mohammadtaseenkhan/assignments@github)](https://gitads.dev/v1/ad-track?source=mohammadtaseenkhan/assignments@github)
+
 <p align="center">
     <a href="https://mohammadtaseenkhan.github.io/Assignments/">
         <img src="img/document.png"/>
