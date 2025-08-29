@@ -16,3 +16,4 @@ It is my designed website through which you will receive my Assignments with wel
 <br>Visit the <a href="https://mohammadtaseenkhan.github.io/Assignments/" target="_blank">Website</a>
 
 <br>Author <a href="https://www.facebook.com/mdtaseen.khan.77" target="_blank">Mohammad Taseen Khan</a>
+<!-- GitAds-Verify: QD5SRUB31UPL4PVR3EUR9XSPG51U425A -->
